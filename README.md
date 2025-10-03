@@ -20,5 +20,5 @@ For questions or issues, please contact:
 ivo.vollmer@students.unibe.ch
 
 
-## Additional Note
+## Additional Remark
 In a previous bachelor thesis, Levin Walter analyzed the semi-major axis fit model over long time intervals in great detail and evaluated it in relation to the Gaussian approach. The corresponding Python scripts and thesis are available in his GitHub repository: https://github.com/coresnprogrammer/ISWEOLEOS.git.
